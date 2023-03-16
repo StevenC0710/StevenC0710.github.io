@@ -1,0 +1,60 @@
+.container {
+    width: 80%;
+    text-align: center;
+    background-color: #B1A296;
+    color: #7395AE;
+text-shadow: 2px 3px black;
+}
+.essay {
+    width: 60%;
+    text-align: center;
+    margin : auto;
+    font-family: bradley hand;
+    font-size: 20px;
+    color: white;
+}
+.about {
+    width: 40%;
+    text-align: center;
+    margin : auto;
+    font-family: bradley hand;
+    font-size: 24px;
+    color: white;
+}
+
+.heading {
+    font-family: bradley hand;
+    font-size:60px;
+    font-weight:800;
+    color: white;
+    text-shadow: 2px 2px #7395AE;
+}
+.bg {
+    background-image: url("ProspectPark.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Bigtext {
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    text-shadow: 2px 3px black;
+}
+img {
+    height: 700px;
+}
+.map {
+ text-align: center;
+}
+.bg2 {
+    background-color:#557A95;
+    height:100%;
+}
+.bg3 {
+    background-color:#557A95;
+    height:100vh;
+}
+
